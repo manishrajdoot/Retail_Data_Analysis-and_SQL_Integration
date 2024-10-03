@@ -1,6 +1,6 @@
 ![Picsart_24-10-03_10-18-46-688](https://github.com/user-attachments/assets/6de17e1d-a7b6-497e-9a12-0d493a423db5)
 
-#Project Title: Retail Data Analysis and SQL Integration
+**Project Title: Retail Data Analysis and SQL Integration**
 [Project_Link](https://github.com/manishrajdoot/Retail_Data_Analysis-and_SQL_Integration)
 
 
